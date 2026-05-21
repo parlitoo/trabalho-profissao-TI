@@ -52,3 +52,5 @@ carreiras-em-ti/
 - Dados de mercado: IT Forum, Alura 2025
 
 ---
+
+Desenvolvido com dedicação por Paulo, Samuel, Enzo e Yago — 3º EM · 2026
